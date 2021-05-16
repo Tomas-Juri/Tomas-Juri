@@ -26,4 +26,3 @@
 </ul>
 <h2>Reach me</h2>
 <p>Feel free to contact me at <a href="mailto:tomas.juricka@outlook.cz">tomas.juricka@outlook.cz</a></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=artztju&show_icons=true" alt="artztju" /> </p>
