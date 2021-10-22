@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomáš Juřička</h1>
 <h3 align="center">A .NET/React Developer from Czechia</h3>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Tomas-Juri)
+- All of my projects are available at [Github](https://github.com/Tomas-Juri)
 
 - You can contact me at **tomas.juricka@outlook.cz**
 
